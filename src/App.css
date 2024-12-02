@@ -1,0 +1,77 @@
+/*body {
+    background-color: #323437;
+}
+.row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.col {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo {
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-right: 15px;
+}
+
+.btn {
+    width: 40px;
+    margin-top: 20px;
+}
+
+.img {
+    width: 30px;
+    height: 15px;
+}
+
+.img2 {
+    width: 30px;
+    height: 20px;
+}
+
+
+@keyframes example {
+    from {color: white;}
+    to {color: gray;}
+}
+
+@keyframes example2 {
+    from {color: gray;}
+    to {color: white;}
+}
+
+button {
+    background-color: transparent;
+    border: transparent;
+    color: gray;
+}
+
+button:hover {
+    color: white;
+    animation-name: example2;
+    animation-duration: 0.2s;
+}
+
+button:active {
+    color: gray;
+    animation-name: example;
+    animation-duration: 0.1s;
+}
+
+.roboto-mono {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 350;
+  font-style: normal;
+  color: white;
+
+  margin-top: 50px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
